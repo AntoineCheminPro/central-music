@@ -1,0 +1,15 @@
+@media (max-width: 575px) {
+
+    .header-transition {
+        position: absolute;
+        width: 80%;
+        bottom: -15%;
+        left: 10%;
+        background-image: url('../img/Mobile.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+    }
+
+
+}

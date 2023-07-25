@@ -1,0 +1,27 @@
+@media screen and (min-width: 912px) {
+
+    header {
+        background-image: url('../img/bg-img.png');
+        background-position: right 35% bottom 45%;
+        background-repeat: no-repeat;
+        background-size: auto;
+        height: 800px;
+        max-width: 1400px;
+        margin: auto;
+        font-family: 'work';
+        font-weight: 700;
+        line-height: 120%;
+    }
+
+    .header-transition{
+        position: absolute;
+        width: 80%;
+        bottom: -10%;
+        left: 10%;
+        background-image: url('../img/Mobile.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+    }
+    
+}

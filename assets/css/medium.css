@@ -1,0 +1,13 @@
+@media screen and (min-width: 769px) and (max-width : 911px) {
+    .header-transition{
+        position: absolute;
+        width: 80%;
+        bottom: -15%;
+        left: 10%;
+        background-image: url('../img/Mobile.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+    }
+    
+}
